@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Soma_Impares</string>
+    <string name="Num_1">Número 1</string>
+    <string name="Num_2">Número 2</string>
+    <string name="Maior">Aponte o Maior</string>
+    <string name="Soma_Imp">Soma dos Impares</string>
+    <string name="Res_Maior">O Maior número é </string>
+    <string name="Res_Soma">Soma dos Impares é </string>
+
+
+</resources>
